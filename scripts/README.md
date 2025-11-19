@@ -43,11 +43,11 @@ The instructions below give two common options: using conda (recommended) or pip
 
 ### Using conda (recommended)
 
-1. Create and activate a conda env (example name: `handson-ml`):
+1. Create and activate a conda env (example name: `housing-prediction`):
 
 ```bash
-conda create -n handson-ml python=3.11 -y
-conda activate handson-ml
+conda create -n housing-prediction python=3.11 -y
+conda activate housing-prediction
 ```
 
 2. Install required packages (basic set):
@@ -64,7 +64,7 @@ pip install numpy pandas matplotlib scikit-learn jupyterlab
 jupyter lab
 ```
 
-- Or open the file `handson.ipynb` directly in VS Code (make sure the Python interpreter is the `handson-ml` environment).
+- Or open the file `housing_prediction.ipynb` directly in VS Code (make sure the Python interpreter is the `housing-prediction` environment).
 
 4. Run cells top-to-bottom (Shift+Enter to run a cell in Jupyter/VS Code). Start with the imports cell.
 
