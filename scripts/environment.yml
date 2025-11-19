@@ -1,4 +1,4 @@
-name: handson-ml
+name: housing-prediction
 channels:
   - defaults
 dependencies:

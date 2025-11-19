@@ -1,6 +1,6 @@
-# Hands-on ML — `handson.ipynb`
+# Hands-on Housing Prediction — `housing_prediction.ipynb`
 
-This repository contains a small end-to-end example for getting started with a machine learning workflow using a housing dataset. The main artifact is the Jupyter notebook `handson.ipynb` which walks through loading data, exploratory data analysis, simple feature engineering, and two types of train/test splits (simple and stratified).
+This repository contains a small end-to-end example for getting started with a machine learning workflow using a housing dataset. The main artifact is the Jupyter notebook `housing_prediction.ipynb` which walks through loading data, exploratory data analysis, simple feature engineering, and two types of train/test splits (simple and stratified).
 
 This README explains what the notebook does, how to run it, how to reproduce the work on your own machine, and resources for learning Jupyter, Python, and machine learning.
 
@@ -10,8 +10,8 @@ This README explains what the notebook does, how to run it, how to reproduce the
 
 Files in this folder:
 
-- `handson.ipynb` — The Jupyter notebook with the step-by-step analysis.
-- `handson.py` — Original script (if present) that was converted into the notebook.
+- `housing_prediction.ipynb` — The Jupyter notebook with the step-by-step analysis.
+- `housing_prediction.py` — Original script that was converted into the notebook.
 - `housing.csv` — The dataset used by the notebook (expected to be in the same folder).
 
 Goal: provide a clear, runnable example that shows how to start a small ML project: load data, inspect it, do simple preprocessing, and split it for modeling.
